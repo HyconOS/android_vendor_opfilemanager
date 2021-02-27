@@ -21,5 +21,9 @@
      <permission name="android.permission.LOG_COMPAT_CHANGE"/>
      <permission name="android.permission.MODIFY_QUIET_MODE"/>
      <permission name="android.permission.READ_COMPAT_CHANGE_CONFIG"/>
+     <permission name="android.permission.DELETE_PACKAGES"/>
+     <permission name="android.permission.CHANGE_CONFIGURATION"/>
+     <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+     <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
   </privapp-permissions>
 </permissions>
